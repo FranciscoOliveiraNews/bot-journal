@@ -1,0 +1,20 @@
+{
+  "plans": [
+    {
+      "code": "mensal",
+      "name": "Mensal",
+      "price": 27.90,
+      "days": 30,
+      "highlight": false,
+      "label": "R$ 27,90/mes"
+    },
+    {
+      "code": "anual",
+      "name": "Anual",
+      "price": 279.00,
+      "days": 365,
+      "highlight": true,
+      "label": "R$ 279/ano  ·  2 meses gratis"
+    }
+  ]
+}
